@@ -1,1 +1,5 @@
 
+O arquivo com extensão .oap é do projeto outsystems
+O arquivo com extensão .oml é do módulo outsystems
+Abrindo o arquivo oml no service studio da Outsystems é possível visualizar o código fonte do sistema.
+https://www.outsystems.com/downloads/
