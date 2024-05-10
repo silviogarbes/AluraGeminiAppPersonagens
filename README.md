@@ -9,3 +9,6 @@ Ao clicar na imagem do coelhinho da páscoa o sistema configura para que o syste
 Numa segunda versão a ser desenvolvida, a ideia é que após clicar no ícone do personagem, por exemplo coelhinho da páscoa, uma chamada de vídeo seja realizado para a inteligencia artificial. Ela gera um video do coelhinho da páscoa e escuta o que a criança esta falando, entende o audio e gera uma resposta em video, aproveitando dos recursos multimodal oferecido.
 
 Assim a criança poderia conversar com os personagens favoritos e aumentar sua imaginação.
+
+Simulador do app:
+https://silviogarbes.outsystemscloud.com/PreviewInDevices/?IsMobilePreview=True&DeviceName=Smartphone&URL=/AluraGoogleGeminiPersonagens/Home?_ts=638508866675794110#
