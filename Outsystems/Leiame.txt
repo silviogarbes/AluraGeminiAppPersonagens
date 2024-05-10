@@ -1,5 +1,6 @@
 
 O arquivo com extensão .oap é do projeto outsystems
 O arquivo com extensão .oml é do módulo outsystems
+O arquivo com extensão .apk é aplicativo para poder ser instalado no Android
 Abrindo o arquivo oml no service studio da Outsystems é possível visualizar o código fonte do sistema.
 https://www.outsystems.com/downloads/
